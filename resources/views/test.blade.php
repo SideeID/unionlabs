@@ -10,13 +10,7 @@
         </div>
     </div>
     <x-home.category-grid-section />
-    <x-home.voucher-banner-section
-        voucher1Title="Promo Spesial"
-        voucher1Subtitle="Hanya hari ini!"
-        voucher1Button="Ambil Sekarang"
-        voucher2Title1="Mau Voucher"
-        voucher2Title2="Diskon 20RB?"
-    />
+    <x-home.voucher-banner-section />
     <x-home.special-section />
     <x-home.official-merch-section />
     <x-home.product-section title="Produk Terbaru" />
